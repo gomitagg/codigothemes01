@@ -542,8 +542,10 @@ function toggleFireMode() {
 <div class="menu-visitor">
 <a href="/archive"><i class="cp cp-candy"></i>
                 Archivo</a>
-<a href="/" target="_blank"><i class="cp cp-candy"></i>
-                Link</a>
+<a href="/ask" target="_blank"><i class="cp cp-candy"></i>
+               Pregunta</a>
+<a href="/submit" target="_blank"><i class="cp cp-candy"></i>
+                Submit</a>
 <a href="/" target="_blank"><i class="cp cp-candy"></i>
                 Link</a>
 <a href="/" target="_blank"><i class="cp cp-candy"></i>
